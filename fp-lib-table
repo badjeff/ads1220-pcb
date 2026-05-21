@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ads1220")(type "KiCad")(uri "${KIPRJMOD}/ads1220.pretty")(options "")(descr ""))
+)
